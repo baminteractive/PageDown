@@ -16,6 +16,11 @@
     "pagedown",
     "highlight"
   ],
+  "main": [
+    "Markdown.Converter.js",
+    "Markdown.Sanitizer.js",
+    "Markdown.Editor.js"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
