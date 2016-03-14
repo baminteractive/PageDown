@@ -19,7 +19,8 @@
   "main": [
     "Markdown.Converter.js",
     "Markdown.Sanitizer.js",
-    "Markdown.Editor.js"
+    "Markdown.Editor.js",
+    "Markdown.Extra.js"
   ],
   "license": "MIT",
   "ignore": [
